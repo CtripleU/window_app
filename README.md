@@ -1,12 +1,19 @@
-# window_app
+# Window App
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Install Flutter
++ Install Android Studio along with an emulator
+- Clone the repository
+- Open it in Android studio
+- Set-up an emulator of screen size Pixel 6
+- Open emulator
+- Run the command `flutter run` in terminal
 
-A few resources to get you started if this is your first Flutter project:
+
+Other helpful resources:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
